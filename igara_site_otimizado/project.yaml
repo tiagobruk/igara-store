@@ -1,0 +1,13 @@
+name: igara_premium_site
+runtime: nodejs
+# Configurações específicas para Next.js podem variar dependendo da plataforma de deploy.
+# Esta é uma estrutura genérica para YAML, pode precisar de ajustes.
+build:
+  command: "npm run build"
+  publish: ".next" # Ou 'out' se for exportação estática, mas estamos usando Next.js padrão
+
+deploy:
+  # Comandos ou configurações de deploy específicas da plataforma
+  # Exemplo para algumas plataformas:
+  # start_command: "npm run start"
+
