@@ -1,0 +1,23 @@
+{
+    "name": "IGARA Embalagem Luxo #001",
+    "description": "Embalagem personalizada + NFT de colecionador. Caixa preta com logo dourada. Presente especial.",
+    "image": "https://igara.vercel.app/mockup_embalagem_cj_igara.png",
+    "attributes": [
+        {
+            "trait_type": "Tipo",
+            "value": "Embalagem"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Cartonagem Premium"
+        },
+        {
+            "trait_type": "Edi\u00e7\u00e3o",
+            "value": "Luxo"
+        },
+        {
+            "trait_type": "N\u00famero",
+            "value": "001/033"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "IGARA Anel Edi\u00e7\u00e3o #001",
+    "description": "Joia f\u00edsica + NFT exclusivo. Anel dourado com design moderno IGARA. Apenas 33 unidades dispon\u00edveis.",
+    "image": "https://igara.vercel.app/anel_igara_placeholder.jpg",
+    "attributes": [
+        {
+            "trait_type": "Tipo",
+            "value": "Anel"
+        },
+        {
+            "trait_type": "Material",
+            "value": "A\u00e7o Dourado"
+        },
+        {
+            "trait_type": "Edi\u00e7\u00e3o",
+            "value": "Limitada"
+        },
+        {
+            "trait_type": "N\u00famero",
+            "value": "001/033"
+        }
+    ]
+}

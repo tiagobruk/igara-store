@@ -1,0 +1,23 @@
+{
+    "name": "IGARA Colar Edi\u00e7\u00e3o #001",
+    "description": "Joia f\u00edsica + NFT exclusivo. Pingente prateado com estrela IGARA. Apenas 33 unidades no mundo.",
+    "image": "https://igara.vercel.app/mockup_joia_printify_igara.png",
+    "attributes": [
+        {
+            "trait_type": "Tipo",
+            "value": "Colar"
+        },
+        {
+            "trait_type": "Material",
+            "value": "A\u00e7o Prateado"
+        },
+        {
+            "trait_type": "Edi\u00e7\u00e3o",
+            "value": "Limitada"
+        },
+        {
+            "trait_type": "N\u00famero",
+            "value": "001/033"
+        }
+    ]
+}
