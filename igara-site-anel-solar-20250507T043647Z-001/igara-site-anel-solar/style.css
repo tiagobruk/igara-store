@@ -1,0 +1,8 @@
+body { margin: 0; font-family: sans-serif; background: #111; color: #f5f5f5; }
+.navbar { display: flex; justify-content: space-between; padding: 1rem; background: #000; }
+.navbar h1 { margin: 0; }
+.navbar ul { list-style: none; display: flex; gap: 1rem; }
+.navbar a { color: gold; text-decoration: none; }
+.home, .manifesto, .produtos, .contato { padding: 2rem; text-align: center; }
+.vitrine { display: flex; gap: 2rem; justify-content: center; margin-top: 1rem; flex-wrap: wrap; }
+.produto-card { background: #222; padding: 1rem; border: 1px solid gold; width: 250px; }
